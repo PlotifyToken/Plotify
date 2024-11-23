@@ -1,0 +1,15 @@
+{
+  "name": "Plotify Token",
+  "symbol": "PLFY",
+  "uri": "https://github.com/PlotifyToken/Plotify/token-metadata.json",
+  "description": "A decentralized token for real estate crowdfunding.",
+  "image": "https://i.postimg.cc/kgD38QRk/Plotify-Token.png",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "Your_Wallet_Address",
+      "verified": true,
+      "share": 100
+    }
+  ]
+}
